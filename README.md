@@ -2,7 +2,7 @@
 This project was created alongside this tutorial: https://www.youtube.com/watch?v=khJlrj3Y6Ls
 
 This is a react app that uses api calls to a covid-19 api. 
-
+* This isn't being updated and might have future problems with the api.
 
 
 
